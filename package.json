@@ -1,0 +1,18 @@
+{
+  "name": "mindsuite-direction",
+  "version": "1.0.0",
+  "description": "MindSuite Direction: the 365-day plan, sales and marketing toolkit, outreach and lead engine",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.18"
+  },
+  "dependencies": {
+    "express": "4.21.2"
+  }
+}

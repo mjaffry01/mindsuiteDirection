@@ -1,0 +1,21 @@
+.deptdef{position:fixed;z-index:50;width:min(460px,calc(100vw - 16px));max-height:min(78vh,640px);overflow:auto;background:var(--surface);color:var(--ink);border:1px solid var(--ink);border-radius:14px;padding:16px 18px 18px;font-family:Manrope,"Segoe UI",system-ui,sans-serif;font-size:14px;line-height:1.5;box-shadow:0 12px 32px rgba(10,15,30,.18)}
+.deptdef:focus{outline:none}
+.deptdef .dd-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.deptdef h2{font-family:"Bricolage Grotesque",Manrope,sans-serif;font-size:21px;margin:0;line-height:1.15}
+.deptdef h3{font-family:"Bricolage Grotesque",Manrope,sans-serif;font-size:15px;margin:14px 0 6px}
+.deptdef .dd-x{font:inherit;font-size:22px;line-height:1;background:none;border:0;color:var(--muted);cursor:pointer;padding:0 4px}
+.deptdef .dd-x:focus-visible,.deptdef summary:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.deptdef .dd-sum{margin:8px 0 0;font-size:15px}
+.deptdef .dd-note{margin:8px 0 0;color:var(--accent-ink);font-size:13px}
+.deptdef ul{margin:0;padding-left:18px}.deptdef li{margin:2px 0}
+.deptdef details{border-top:1px solid var(--line);padding:6px 0}.deptdef details:last-of-type{border-bottom:1px solid var(--line)}
+.deptdef summary{cursor:pointer;font-weight:600}.deptdef details ul{margin-top:4px;color:var(--muted)}
+.deptdef .dd-kpis{list-style:none;padding:0;margin:0;border-top:1px solid var(--line)}
+.deptdef .dd-kpis li{display:flex;flex-direction:column;gap:1px;padding:7px 0;border-bottom:1px solid var(--line);margin:0}
+.deptdef .dd-kn{font-weight:700}
+.deptdef .dd-kf{font-size:12px;color:var(--muted)}
+.deptdef .dd-kl{font-size:13px;font-weight:600;color:var(--done-ink)}
+.deptdef .dd-kv{display:grid;grid-template-columns:auto 1fr;gap:6px 12px;margin:14px 0 0}.deptdef .dd-kv dt{color:var(--muted)}.deptdef .dd-kv dd{margin:0}
+.hint{font-size:12px;color:var(--muted);margin:0 0 0 64px}
+button.deflink{font:inherit;font-size:14px;font-weight:600;background:none;border:0;padding:0;margin-top:12px;color:var(--ink);text-decoration:underline;cursor:pointer}
+@media (max-width:640px){.hint{margin-left:0}}

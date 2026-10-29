@@ -1,0 +1,10476 @@
+{
+ "quarters": [
+  {
+   "name": "Q1",
+   "title": "Foundation",
+   "weeks": [
+    1,
+    13
+   ],
+   "goal": "Rate card, packages, website, CRM and a ₹10 Cr pipeline. Head of Sales and first business developer hired.",
+   "daily": [
+    "CEO sends 10 personal outreach messages",
+    "CEO posts or comments thoughtfully on LinkedIn",
+    "Every new lead gets a reply within 24 hours",
+    "CRM updated before logging off"
+   ],
+   "stretch": "Acquisition search and anchor-account outreach under way; working capital line agreed."
+  },
+  {
+   "name": "Q2",
+   "title": "Engines",
+   "weeks": [
+    14,
+    26
+   ],
+   "goal": "Paid assessments selling every month, managed services launched, first 5–6 billable hires made against signed deals.",
+   "daily": [
+    "25 personalised outreach touches per salesperson",
+    "Every new lead gets a reply within 24 hours",
+    "CEO posts or comments thoughtfully on LinkedIn",
+    "CRM updated before logging off"
+   ],
+   "stretch": "Acquisition signed, anchor accounts 1–2 signed and staffed."
+  },
+  {
+   "name": "Q3",
+   "title": "Scale",
+   "weeks": [
+    27,
+    39
+   ],
+   "goal": "Budget doubled on the best channels, referral programme and events running, retainers growing towards 25% of revenue.",
+   "daily": [
+    "25 personalised outreach touches per salesperson",
+    "Every proposal follow-up done on time",
+    "Delivery leads flag any project risk the same day",
+    "CRM updated before logging off"
+   ],
+   "stretch": "Acquired firm integrated, anchor account 3 signed, margins held at 15% or more."
+  },
+  {
+   "name": "Q4",
+   "title": "Expand",
+   "weeks": [
+    40,
+    53
+   ],
+   "goal": "Business reviews with every client, cross-sell and retainers at 30%, year 2 plan locked.",
+   "daily": [
+    "25 personalised outreach touches per salesperson",
+    "One expansion conversation with an existing client",
+    "Delivery leads flag any project risk the same day",
+    "CRM updated before logging off"
+   ],
+   "stretch": "Anchor accounts renewed for year 2; monthly billing at ₹1.67 Cr."
+  }
+ ],
+ "months": [
+  {
+   "n": 1,
+   "weeks": [
+    1,
+    4
+   ],
+   "run": 43,
+   "heads": 28,
+   "clients": 0,
+   "assess": 0,
+   "srun": 44,
+   "sheads": 29
+  },
+  {
+   "n": 2,
+   "weeks": [
+    5,
+    8
+   ],
+   "run": 44,
+   "heads": 30,
+   "clients": 0,
+   "assess": 1,
+   "srun": 47,
+   "sheads": 31
+  },
+  {
+   "n": 3,
+   "weeks": [
+    9,
+    13
+   ],
+   "run": 45,
+   "heads": 31,
+   "clients": 1,
+   "assess": 2,
+   "srun": 50,
+   "sheads": 33
+  },
+  {
+   "n": 4,
+   "weeks": [
+    14,
+    17
+   ],
+   "run": 48,
+   "heads": 32,
+   "clients": 2,
+   "assess": 4,
+   "srun": 56,
+   "sheads": 38
+  },
+  {
+   "n": 5,
+   "weeks": [
+    18,
+    21
+   ],
+   "run": 52,
+   "heads": 34,
+   "clients": 3,
+   "assess": 6,
+   "srun": 65,
+   "sheads": 46
+  },
+  {
+   "n": 6,
+   "weeks": [
+    22,
+    26
+   ],
+   "run": 55,
+   "heads": 36,
+   "clients": 4,
+   "assess": 8,
+   "srun": 80,
+   "sheads": 60
+  },
+  {
+   "n": 7,
+   "weeks": [
+    27,
+    30
+   ],
+   "run": 59,
+   "heads": 37,
+   "clients": 5,
+   "assess": 10,
+   "srun": 92,
+   "sheads": 72
+  },
+  {
+   "n": 8,
+   "weeks": [
+    31,
+    34
+   ],
+   "run": 64,
+   "heads": 39,
+   "clients": 6,
+   "assess": 12,
+   "srun": 105,
+   "sheads": 84
+  },
+  {
+   "n": 9,
+   "weeks": [
+    35,
+    39
+   ],
+   "run": 68,
+   "heads": 41,
+   "clients": 7,
+   "assess": 14,
+   "srun": 120,
+   "sheads": 98
+  },
+  {
+   "n": 10,
+   "weeks": [
+    40,
+    43
+   ],
+   "run": 73,
+   "heads": 42,
+   "clients": 8,
+   "assess": 16,
+   "srun": 135,
+   "sheads": 112
+  },
+  {
+   "n": 11,
+   "weeks": [
+    44,
+    47
+   ],
+   "run": 78,
+   "heads": 44,
+   "clients": 9,
+   "assess": 18,
+   "srun": 150,
+   "sheads": 126
+  },
+  {
+   "n": 12,
+   "weeks": [
+    48,
+    53
+   ],
+   "run": 83,
+   "heads": 45,
+   "clients": 10,
+   "assess": 20,
+   "srun": 167,
+   "sheads": 140
+  }
+ ],
+ "days": [
+  {
+   "d": 1,
+   "w": 1,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Share the 365-day plan and targets with all leads; name an owner per department",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 2,
+   "w": 1,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Pull last 12 months of revenue by client, service and month",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Set the stretch target: ₹20 Cr run rate by Day 365, with ₹10 Cr staying committed",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 3,
+   "w": 1,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "List every billable person, current project and last 3 months’ utilisation",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "All regions: split the ₹60 lakh budget — Gulf 35%, US 30%, Europe 20%, Asia 10%, shared 5%",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 4,
+   "w": 1,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Calculate the current blended hourly rate for each client",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Model cash needs for ₹20 Cr: hiring ahead and 60–90 day payment terms",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 5,
+   "w": 1,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Write the baseline: run rate, headcount, utilisation, blended rate, top 5 clients",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 6,
+   "w": 1,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Set up the weekly scorecard with the 8 numbers to track",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 7,
+   "w": 1,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 8,
+   "w": 2,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Pick 2–3 target industries based on your best current clients",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Map every active project: client, end date and follow-on opportunity",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 9,
+   "w": 2,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Pick 2 geographies: India plus one overseas market",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "List every AI use case delivered so far and its result",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Write acquisition criteria: ₹4–6 Cr revenue, ERP or cyber, profitable, clients you don’t have",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 10,
+   "w": 2,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Write the ideal client profile: size, industry, buyer title, main pain",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "List every client environment you run or could run",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: write the global message and a one-line version for each region",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 11,
+   "w": 2,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Confirm the three lead departments: Product Engineering, Applied AI, Cloud & Platform",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Agree how leads and work are shared with the ERP partner",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "List 30 enterprises and global capability centres that use dedicated offshore teams",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 12,
+   "w": 2,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Choose partner firms for ERP and cyber work this year",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Agree how leads and work are shared with the cyber partner",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 13,
+   "w": 2,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Collect logos and permission to use them from happy clients",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 14,
+   "w": 2,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 15,
+   "w": 3,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Finance",
+     "Draft the new rate card by role, domestic and overseas",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 16,
+   "w": 3,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Check the draft rates against 3–5 competitors",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Approach 2–3 banks for a ₹3–5 Cr working capital line",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 17,
+   "w": 3,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Finance",
+     "Put every client’s contract renewal date into a renewal calendar",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Europe: start ISO 27001 certification; pick a certification body and consultant",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 18,
+   "w": 3,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Approve the rate card: new clients pay new rates from today",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Brief an M&A adviser or CA firm on the acquisition search",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 19,
+   "w": 3,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Finance",
+     "Set a floor rate; deals below it need CEO approval",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 20,
+   "w": 3,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Build a 12-month cash-flow forecast",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 21,
+   "w": 3,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 22,
+   "w": 4,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Define scope, timeline and deliverables for the AI Value Sprint",
+     "ai"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 23,
+   "w": 4,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Define the Software Health Check and DevOps Health Check packages",
+     "pe"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Build a long list of 25 acquisition targets",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 24,
+   "w": 4,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Define the Release Pipeline Starter and MVP Launch packages",
+     "pe"
+    ],
+    [
+     "Marketing",
+     "Gulf: build the landing page — Arabic and English AI, ERP, local case studies",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 25,
+   "w": 4,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Fix a price for each package",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Design the dedicated-team offer: team sizes, pricing, ramp-up time",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 26,
+   "w": 4,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Write a one-page sheet for each package",
+     "mkt"
+    ],
+    [
+     "CEO",
+     "Month 1 check: run rate ₹43 lakh a month, headcount 28, 0 new clients, 0 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 27,
+   "w": 4,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Create a reusable assessment report template",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 28,
+   "w": 4,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 29,
+   "w": 5,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Finalise the offerings page with the new group names",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 30,
+   "w": 5,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Rewrite the homepage around Applied AI and client outcomes",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Contact the founders of the first 10 acquisition targets",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 31,
+   "w": 5,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Add a page for each package with its starting price",
+     "mkt"
+    ],
+    [
+     "Sales",
+     "Gulf: build a target list of 100 companies in banking, real estate, logistics and retail",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 32,
+   "w": 5,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Add a booking link for a free 30-minute discovery call",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Start outreach to the 30 anchor-account targets",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 33,
+   "w": 5,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Launch the updated website",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 34,
+   "w": 5,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Connect website forms and analytics to the CRM",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 35,
+   "w": 5,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 36,
+   "w": 6,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Set up the CRM with deal stages and required fields",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Build a starter kit: project template, CI setup, code standards",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 37,
+   "w": 6,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Load all current clients and past prospects into the CRM",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Build a demo for each AI offer: knowledge assistant, documents, workflows",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Find a recruitment partner who can supply 20 engineers within 6 weeks",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 38,
+   "w": 6,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Build a list of 300 target companies that match the ideal client profile",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Define managed services tiers and response times",
+     "cloud"
+    ],
+    [
+     "CEO",
+     "Gulf: appoint 1–2 commission-based door-openers in Dubai",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 39,
+   "w": 6,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Find 2–3 decision-makers at each target company",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "List current clients who need ERP or ERP integration",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Approach 5 larger IT firms about subcontracting work",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 40,
+   "w": 6,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Write 3 outreach sequences: AI, product engineering, cloud",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "List clients who need security testing or compliance",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 41,
+   "w": 6,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Review the sequences and personalise the opening lines",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 42,
+   "w": 6,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 43,
+   "w": 7,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Interview 2 clients for case studies",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 44,
+   "w": 7,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 1 with numbers: time saved, cost, revenue",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "First meetings with interested acquisition targets",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 45,
+   "w": 7,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Write case study 2",
+     "mkt"
+    ],
+    [
+     "Marketing",
+     "US: build the landing page — AI Feature Launch, MVP builds, dedicated teams, US hours",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 46,
+   "w": 7,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Interview 2 more clients",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "First meetings with anchor-account targets",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 47,
+   "w": 7,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Publish case studies 1 and 2 on the website and LinkedIn",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 48,
+   "w": 7,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Plan 12 weeks of LinkedIn posts for the CEO",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 49,
+   "w": 7,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 50,
+   "w": 8,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Write the Head of Sales job description with clear targets",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 51,
+   "w": 8,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Post the role and brief 2 recruitment agencies",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Choose the acquisition funding route: cash, earn-out, bank loan or investor",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 52,
+   "w": 8,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "HR",
+     "Write the business development manager job description",
+     "fha"
+    ],
+    [
+     "Sales",
+     "US: build a target list of 150 SaaS, health tech and fintech companies with 50–500 staff",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 53,
+   "w": 8,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "HR",
+     "Screen the first Head of Sales applicants",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Send the first dedicated-team proposal",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 54,
+   "w": 8,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "First-round interviews with Head of Sales candidates",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Month 2 check: run rate ₹44 lakh a month, headcount 30, 0 new clients, 1 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 55,
+   "w": 8,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 3",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 56,
+   "w": 8,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 57,
+   "w": 9,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Start the outreach sequence to the first 50 target companies",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 58,
+   "w": 9,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Send personal messages to 20 past clients and contacts",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Shortlist 3 acquisition targets",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 59,
+   "w": 9,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Reply to every response within 24 hours",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "US: ask your first 5 clients for Clutch reviews",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 60,
+   "w": 9,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Final interviews with Head of Sales candidates",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Close the working capital line",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 61,
+   "w": 9,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Make the Head of Sales offer",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 62,
+   "w": 9,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Publish case study 3",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 63,
+   "w": 9,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 64,
+   "w": 10,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Pick webinar 1 topic: a real AI use case for your target industry",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Package the MVP Launch offer with a fixed scope and price",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 65,
+   "w": 10,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Create the registration page and invite list",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Set a standard evaluation method for every AI project",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Request financials from the shortlisted targets under NDA",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 66,
+   "w": 10,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Invite all target accounts and current clients",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Complete the first cloud partner certifications",
+     "cloud"
+    ],
+    [
+     "Sales",
+     "US: start outbound with an appointment-setting agency paid per meeting",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 67,
+   "w": 10,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Prepare the live demo for the webinar",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Confirm the two platforms: Odoo and NetSuite",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Follow up every anchor-account proposal",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 68,
+   "w": 10,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Run webinar 1",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Package a security assessment for existing clients",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 69,
+   "w": 10,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Follow up with every attendee within 48 hours",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 70,
+   "w": 10,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 71,
+   "w": 11,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Start AWS or Azure partner registration",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 72,
+   "w": 11,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "List the certifications needed for partner status",
+     "cloud"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "First look at each target’s revenue quality: client concentration, margins, contracts",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 73,
+   "w": 11,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "HR",
+     "Schedule a certification study plan for 4 engineers",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Gulf: book LEAP in Riyadh (check dates) — passes or stand, plus a meeting list",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 74,
+   "w": 11,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Sign a referral agreement with the ERP partner firm",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Build a bench of 30 pre-screened engineers for anchor accounts",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 75,
+   "w": 11,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Sign a referral agreement with the cyber partner firm",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 76,
+   "w": 11,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case studies 4 and 5",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 77,
+   "w": 11,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 78,
+   "w": 12,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Interview business development candidates",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 79,
+   "w": 12,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Identify clients renewing in the next 90 days",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Pick the lead acquisition target",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 80,
+   "w": 12,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Prepare repricing conversations for those renewals",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Gulf: start outbound and line up meetings for the LEAP trip",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 81,
+   "w": 12,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "HR",
+     "Make the business development offer",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Push one anchor account into final negotiation",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 82,
+   "w": 12,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Count open pipeline; target ₹10 Cr by quarter end",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 83,
+   "w": 12,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Publish case studies 4 and 5",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 84,
+   "w": 12,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 85,
+   "w": 13,
+   "wd": 0,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Clean the CRM: every deal has a value, stage and close date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Leadership quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Sales quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 86,
+   "w": 13,
+   "wd": 1,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Calculate Q1 revenue, margin and utilisation",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Marketing quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Product Engineering quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "pe"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Track stretch pipeline separately from the core pipeline",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 87,
+   "w": 13,
+   "wd": 2,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "List projects ending next quarter and plan follow-on offers",
+     "pe"
+    ],
+    [
+     "Delivery",
+     "Applied AI quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "ai"
+    ],
+    [
+     "Delivery",
+     "Cloud & Platform Excellence quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: set up the regional scorecard — meetings, cost per meeting, pipeline, win rate",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 88,
+   "w": 13,
+   "wd": 3,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Write the Q1 review: targets against actuals",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Connected Enterprise (ERP) quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "erp"
+    ],
+    [
+     "Delivery",
+     "Cyber Resilience quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cyber"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Prepare the Day 90 stretch numbers",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 89,
+   "w": 13,
+   "wd": 4,
+   "q": 1,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Q1 check: run rate ₹45 lakh a month, headcount 31, pipeline ₹10 Cr",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Delivery Management quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Finance, HR & Admin quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 90,
+   "w": 13,
+   "wd": 5,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Quarter review offsite with all leads; set Q2 priorities",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Day 90 stretch checkpoint: open pipeline ₹45 Cr or more, and one acquisition in serious talks or one anchor account in final negotiation. If not, drop ₹20 Cr for this year and commit fully to ₹10 Cr.",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 91,
+   "w": 13,
+   "wd": 6,
+   "q": 1,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 92,
+   "w": 14,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Onboard the Head of Sales: targets, client profile, pipeline handover",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 93,
+   "w": 14,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Head of Sales reviews every open deal",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Agree indicative price and structure with the lead target",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 94,
+   "w": 14,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Set monthly targets for each salesperson",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Gulf: prepare LEAP materials — Arabic and English AI demo, one-pagers, case studies",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 95,
+   "w": 14,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Agree lead hand-off rules between marketing and sales",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Negotiate the first anchor-account contract",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 96,
+   "w": 14,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Agree the commission plan for the sales team",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 97,
+   "w": 14,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Expand outreach to 150 target companies",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 98,
+   "w": 14,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 99,
+   "w": 15,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Offer the AI Value Sprint to 20 warm prospects",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Review margin on every project; fix any below 25%",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 100,
+   "w": 15,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Offer health checks to existing clients without a recent review",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Run AI Value Sprints in a fixed 2-week format",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Appoint advisers for financial and legal due diligence",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 101,
+   "w": 15,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Name an assessment lead in each department",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Offer managed services to every Product Engineering client",
+     "cloud"
+    ],
+    [
+     "CEO",
+     "Gulf: this week, attend LEAP in Riyadh and run booked meetings (adjust to actual dates)",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 102,
+   "w": 15,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Target: 3 paid assessments signed this month",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Run the first ERP discovery together with the partner",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Prepare onboarding for a 15–20 person team",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 103,
+   "w": 15,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Write the assessment kickoff checklist",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Run the first penetration test with the partner",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 104,
+   "w": 15,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Post on LinkedIn about what an AI Value Sprint uncovers",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 105,
+   "w": 15,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 106,
+   "w": 16,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Build the hiring plan: 5–6 billable roles, each triggered by a signed deal",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 107,
+   "w": 16,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Write job descriptions for AI/ML engineer and full-stack developer",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Start financial due diligence",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 108,
+   "w": 16,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "HR",
+     "Launch an employee referral bonus",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Gulf: follow up every LEAP contact within 48 hours",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 109,
+   "w": 16,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "HR",
+     "Build a bench of pre-screened candidates for fast hiring",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Sign anchor account 1",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 110,
+   "w": 16,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Finance",
+     "Rule: cash must cover 2 months of salary before each hire",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 111,
+   "w": 16,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "HR",
+     "Line up 2 contractor firms for peak demand",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 112,
+   "w": 16,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 113,
+   "w": 17,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Design the managed services offer: scope, response times, hours",
+     "cloud"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 114,
+   "w": 17,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Price managed services as monthly tiers",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Meet the target’s top clients and key staff, with their founder’s agreement",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 115,
+   "w": 17,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Choose the monitoring and support tools",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: launch the webinar series in two slots — Gulf/Europe time and US time",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 116,
+   "w": 17,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Write the managed services page and one-pager",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Hire the first anchor-account team in waves",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 117,
+   "w": 17,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Offer managed services to every client whose project ends within 90 days",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Month 4 check: run rate ₹48 lakh a month, headcount 32, 2 new clients, 4 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 118,
+   "w": 17,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Write the support runbook template",
+     "cloud"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 119,
+   "w": 17,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 120,
+   "w": 18,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Plan webinar 2 on cloud cost or DevOps",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 121,
+   "w": 18,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Send webinar 2 invites",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Legal due diligence: contracts, IP, employment, tax",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 122,
+   "w": 18,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Prepare the webinar 2 demo",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "All regions: list MindSuite on the AWS partner marketplace, and Azure if partnered",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 123,
+   "w": 18,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Run webinar 2",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Propose dedicated teams to 2 more anchor targets",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 124,
+   "w": 18,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Follow up with every attendee",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 125,
+   "w": 18,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Turn the webinar into 3 LinkedIn posts",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 126,
+   "w": 18,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 127,
+   "w": 19,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Run a satisfaction check with every active client",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Publish a Product Engineering case study with client numbers",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 128,
+   "w": 19,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Fix anything a client rated below 8 out of 10",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Track Sprint-to-project conversion; aim for half",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Plan integration: leadership, brand, systems, client communication",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 129,
+   "w": 19,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Standardise project kickoff and status report templates",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Set up shared monitoring and an on-call rotation",
+     "cloud"
+    ],
+    [
+     "Sales",
+     "US: scale outbound to all 150 target accounts",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 130,
+   "w": 19,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Agree code review and quality standards across teams",
+     "pe"
+    ],
+    [
+     "Delivery",
+     "Get one team member trained on Odoo",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Ramp anchor account 1 to its full team",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 131,
+   "w": 19,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Review delivery margin project by project",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Add security checks to every Product Engineering release",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 132,
+   "w": 19,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Internal tech talk on AI-assisted development",
+     "ai"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 133,
+   "w": 19,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 134,
+   "w": 20,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Build a list of 100 target companies in the overseas market",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 135,
+   "w": 20,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Adapt website copy and case studies for overseas buyers",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Negotiate final terms, with the earn-out tied to client retention",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 136,
+   "w": 20,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Start the overseas outreach sequence",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Gulf: publish 2 Gulf case studies or client stories",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 137,
+   "w": 20,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Set up overseas contracts and invoicing: currency, export GST rules",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Start subcontracting work with one larger IT firm",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 138,
+   "w": 20,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Ask 3 contacts for overseas introductions",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 139,
+   "w": 20,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Publish a LinkedIn post aimed at overseas buyers",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 140,
+   "w": 20,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 141,
+   "w": 21,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Interview for roles linked to signed deals",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 142,
+   "w": 21,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Make offers for the first 2–3 billable hires",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Sign the acquisition term sheet",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 143,
+   "w": 21,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Prepare the onboarding plan for new joiners",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Europe: build the landing page — AI governance, EU AI Act readiness, GDPR",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 144,
+   "w": 21,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Review which assessments became projects, and why",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Write a retention plan for the target’s key people",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 145,
+   "w": 21,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Confirm start dates for new joiners",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Month 5 check: run rate ₹52 lakh a month, headcount 34, 3 new clients, 6 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 146,
+   "w": 21,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Pair each new joiner with an onboarding buddy",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 147,
+   "w": 21,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 148,
+   "w": 22,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Complete the first cloud certifications",
+     "cloud"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 149,
+   "w": 22,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Submit the partner programme application",
+     "cloud"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Finalise funding for the acquisition",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 150,
+   "w": 22,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Register the first deal with the cloud partner programme",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Europe: build a target list of 75 companies in the UK, Netherlands, Nordics and Ireland",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 151,
+   "w": 22,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Review referrals received from the ERP and cyber partners",
+     "cyber"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Negotiate anchor account 2",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 152,
+   "w": 22,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Add partner badges to the website once approved",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 153,
+   "w": 22,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Start the second certification batch",
+     "cloud"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 154,
+   "w": 22,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 155,
+   "w": 23,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Plan webinar 3 on AI for documents or customer support",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Introduce AI-assisted coding across all teams, with Applied AI",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 156,
+   "w": 23,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Send webinar 3 invites",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Build a reusable document-processing pipeline",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Sign the acquisition agreement",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 157,
+   "w": 23,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Ask 5 happy clients for referrals",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Run cloud cost reviews for 3 clients and show the savings",
+     "cloud"
+    ],
+    [
+     "CEO",
+     "Europe: approach 5 European consultancies about becoming their delivery team",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 158,
+   "w": 23,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Run webinar 3",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Deliver the first ERP integration with your own team",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Quality review of anchor account 1 after 30 days",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 159,
+   "w": 23,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Follow up with every attendee",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Offer vCISO retainers to 5 clients",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 160,
+   "w": 23,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 6",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 161,
+   "w": 23,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 162,
+   "w": 24,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Finance",
+     "List renewals due next quarter",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 163,
+   "w": 24,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Hold repricing conversations with renewing clients",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Announce the acquisition to both teams and all clients",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 164,
+   "w": 24,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Propose retainers instead of renewing as fixed projects",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "US: publish a US case study with hard numbers",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 165,
+   "w": 24,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Update the forecast with the new rates",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Sign anchor account 2",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 166,
+   "w": 24,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Review lost deals and the reasons",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 167,
+   "w": 24,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Add objections and answers to the sales playbook",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 168,
+   "w": 24,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 169,
+   "w": 25,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Interview for the next 2–3 billable roles",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 170,
+   "w": 25,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Make offers",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Integration: combined org chart and reporting lines",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 171,
+   "w": 25,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Check utilisation first; don’t hire into idle capacity",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Europe: check ISO 27001 progress and set the audit date",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 172,
+   "w": 25,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Plan training for new joiners",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Merge finance reporting",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 173,
+   "w": 25,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Finance",
+     "Check margin after the new hires",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 174,
+   "w": 25,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Internal demo day: each team shows recent work",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 175,
+   "w": 25,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 176,
+   "w": 26,
+   "wd": 0,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Clean the CRM",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Leadership quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Sales quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 177,
+   "w": 26,
+   "wd": 1,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Calculate Q2 revenue, margin and utilisation",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Marketing quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Product Engineering quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "pe"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Calculate stretch revenue: acquired, anchor and subcontracting",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 178,
+   "w": 26,
+   "wd": 2,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Check pipeline covers 3 times the remaining year target",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Applied AI quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "ai"
+    ],
+    [
+     "Delivery",
+     "Cloud & Platform Excellence quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: Q2 review — move budget to the region with the cheapest signed deals",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 179,
+   "w": 26,
+   "wd": 3,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Write the Q2 review",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Connected Enterprise (ERP) quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "erp"
+    ],
+    [
+     "Delivery",
+     "Cyber Resilience quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cyber"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Update the anchor-account pipeline",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 180,
+   "w": 26,
+   "wd": 4,
+   "q": 2,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Q2 check: run rate ₹55 lakh a month, headcount 36",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Delivery Management quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Finance, HR & Admin quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Day 180 stretch checkpoint: monthly billing ₹80 lakh or more, and an acquisition signed or 2 anchor accounts signed. If not, keep ₹10 Cr committed and move ₹20 Cr to year 2.",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 181,
+   "w": 26,
+   "wd": 5,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Quarter review offsite; set Q3 priorities",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 182,
+   "w": 26,
+   "wd": 6,
+   "q": 2,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 183,
+   "w": 27,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Calculate cost per qualified meeting for every channel",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 184,
+   "w": 27,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Rank channels: outbound, webinars, referrals, partners, LinkedIn",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Integration review: client retention and staff attrition at the acquired firm",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 185,
+   "w": 27,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Double the budget for the top 2 channels",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Europe: book London Tech Week (check dates) and start a meeting list",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 186,
+   "w": 27,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Pause the weakest channel",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Cross-sell your services to the acquired firm’s clients",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 187,
+   "w": 27,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Set Q3 targets for each salesperson",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 188,
+   "w": 27,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Plan the Q3 content calendar",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 189,
+   "w": 27,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 190,
+   "w": 28,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Design the client referral programme: credit or discount",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Run client satisfaction calls; fix anything below 8 out of 10",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 191,
+   "w": 28,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write the referral programme page and email",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Publish an AI case study with measured results",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Move the acquired team onto your delivery standards",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 192,
+   "w": 28,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Launch the referral programme to all clients",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Apply for partner status with certified engineers",
+     "cloud"
+    ],
+    [
+     "Sales",
+     "Europe: start outbound with an appointment setter",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 193,
+   "w": 28,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Personally call the top 5 clients about referrals",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Write the ERP case study",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Negotiate anchor account 3",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 194,
+   "w": 28,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Track every referral in the CRM",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Sign the first vCISO retainer",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 195,
+   "w": 28,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 7",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 196,
+   "w": 28,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 197,
+   "w": 29,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Pick 2–3 industry events for the next 6 months",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 198,
+   "w": 29,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Book stands or speaking slots",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Track anchor-account margins monthly; keep them at 15% or more",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 199,
+   "w": 29,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Build a target meeting list for each event",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Europe: prepare London Tech Week materials and the AI governance demo",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 200,
+   "w": 29,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Prepare event materials: one-pagers, demo, banner",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Ramp hiring for anchor account 2",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 201,
+   "w": 29,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Book meetings with prospects who will attend",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 202,
+   "w": 29,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write a talk proposal for one event",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 203,
+   "w": 29,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 204,
+   "w": 30,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Build an account plan for each of the top 10 clients",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 205,
+   "w": 30,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Identify a cross-sell for each: AI, cloud or security",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Decide whether to pursue a second acquisition",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 206,
+   "w": 30,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Schedule expansion meetings with the top 10 clients",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Europe: sign the first European consultancy partnership",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 207,
+   "w": 30,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Prepare specific ideas for each client from their projects",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Sign anchor account 3",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 208,
+   "w": 30,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Send expansion proposals",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Month 7 check: run rate ₹59 lakh a month, headcount 37, 5 new clients, 10 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 209,
+   "w": 30,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Internal tech talk",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 210,
+   "w": 30,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 211,
+   "w": 31,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Plan webinar 4",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 212,
+   "w": 31,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Interview for roles linked to signed deals",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Offer the acquired firm’s services to your own clients",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 213,
+   "w": 31,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Send webinar 4 invites",
+     "mkt"
+    ],
+    [
+     "Marketing",
+     "US and Gulf: ask clients for Clutch reviews",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 214,
+   "w": 31,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Run webinar 4",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Quality review of all anchor accounts",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 215,
+   "w": 31,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "HR",
+     "Make offers",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 216,
+   "w": 31,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Follow up with every attendee",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 217,
+   "w": 31,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 218,
+   "w": 32,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "List every project client without a retainer",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Turn two finished projects into enhancement retainers",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 219,
+   "w": 32,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Propose a support or improvement retainer to each",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Add cost and quality monitoring to every live AI project",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Check cash and the credit line against hiring pace",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 220,
+   "w": 32,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Finance",
+     "Target 25% of revenue from retainers by month end",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Automate routine operations across managed clients",
+     "cloud"
+    ],
+    [
+     "CEO",
+     "Europe: this week, attend London Tech Week and run booked meetings (adjust to actual dates)",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 221,
+   "w": 32,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Offer vCISO retainers through the cyber partner",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Offer ERP health checks to clients on ageing systems",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Retention check-ins with key acquired staff",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 222,
+   "w": 32,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Review retainer conversions",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Write the security case study",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 223,
+   "w": 32,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Update the support runbooks",
+     "cloud"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 224,
+   "w": 32,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 225,
+   "w": 33,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Appoint team leads wherever a team has more than 6 people",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 226,
+   "w": 33,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Give each department head revenue, margin and utilisation targets",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "If pursuing, shortlist second acquisition targets",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 227,
+   "w": 33,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Finance",
+     "Build a monthly profit and loss per department",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Europe: follow up every London contact within 48 hours",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 228,
+   "w": 33,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Review project risks across all accounts",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Grow each anchor account by 3–5 people where possible",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 229,
+   "w": 33,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Share department scorecards with every team",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 230,
+   "w": 33,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "HR",
+     "Leadership training for new team leads",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 231,
+   "w": 33,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 232,
+   "w": 34,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Review the last 10 proposals: win rate and reasons",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 233,
+   "w": 34,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Build reusable proposal templates per department",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Earn-out tracking: client retention at the acquired firm",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 234,
+   "w": 34,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Create standard effort estimates for common work",
+     "pe"
+    ],
+    [
+     "Marketing",
+     "Asia: build the landing page — Singapore and Australia, fintech, e-commerce, logistics",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 235,
+   "w": 34,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Cut proposal turnaround to 3 working days",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Add a second subcontracting partner",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 236,
+   "w": 34,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Test a higher price on 2 proposals",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Month 8 check: run rate ₹64 lakh a month, headcount 39, 6 new clients, 12 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 237,
+   "w": 34,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 8",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 238,
+   "w": 34,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 239,
+   "w": 35,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Confirm all meetings for the event",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 240,
+   "w": 35,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Final event preparation",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Integration milestone: one brand, one CRM, one finance system",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 241,
+   "w": 35,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Attend the event and speak if booked",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Asia: contact AWS and Azure partner teams in Singapore and Australia",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 242,
+   "w": 35,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Sales",
+     "Run event meetings",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Ramp anchor account 3",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 243,
+   "w": 35,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Follow up with every contact within 48 hours",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 244,
+   "w": 35,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Post an event recap on LinkedIn",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 245,
+   "w": 35,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 246,
+   "w": 36,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Check utilisation person by person; target 80%",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Train two developers up to tech-lead level",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 247,
+   "w": 36,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Interview for the next billable roles",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Train two engineers from other teams in AI delivery",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Margin review: anchor accounts against core work",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 248,
+   "w": 36,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "HR",
+     "Make offers",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Review managed services margin; adjust pricing if needed",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "Gulf: book GITEX Global in Dubai (check dates) — stand or meetings",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 249,
+   "w": 36,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Put idle staff on internal accelerators or sales demos",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Review the partner’s revenue share and quality",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Bench check for anchor-account demand",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 250,
+   "w": 36,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Finance",
+     "Check margin after the new hires",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Offer AI security reviews to Applied AI clients",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 251,
+   "w": 36,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Internal demo day",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 252,
+   "w": 36,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 253,
+   "w": 37,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Plan webinar 5 with a partner as co-host",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 254,
+   "w": 37,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Register new deals with the partner programmes",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Plan renewals for every anchor account",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 255,
+   "w": 37,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Send webinar 5 invites",
+     "mkt"
+    ],
+    [
+     "CEO",
+     "Gulf: visit Dubai to meet door-openers, clients and prospects",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 256,
+   "w": 37,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Run webinar 5",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Update advisers or investors on stretch progress",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 257,
+   "w": 37,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Follow up with every attendee",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 258,
+   "w": 37,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Review partner-sourced pipeline",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 259,
+   "w": 37,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 260,
+   "w": 38,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Decide whether to build ERP and cyber departments in year 2",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 261,
+   "w": 38,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Estimate the year 2 revenue range",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Second acquisition: go or no-go",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 262,
+   "w": 38,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Start a list of small firms that could be acquired",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Europe: publish a European case study",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 263,
+   "w": 38,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "HR",
+     "Identify people ready to become team leads",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Negotiate anchor account 4",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 264,
+   "w": 38,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Collect year 2 ideas from department heads",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 265,
+   "w": 38,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Write the first draft of year 2 direction",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 266,
+   "w": 38,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 267,
+   "w": 39,
+   "wd": 0,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Clean the CRM",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Leadership quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Sales quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 268,
+   "w": 39,
+   "wd": 1,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Calculate Q3 revenue, margin and utilisation",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Marketing quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Product Engineering quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "pe"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Calculate stretch revenue and margin for the quarter",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 269,
+   "w": 39,
+   "wd": 2,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Check pipeline coverage",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Applied AI quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "ai"
+    ],
+    [
+     "Delivery",
+     "Cloud & Platform Excellence quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: Q3 review — shift budget and set Q4 targets per region",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 270,
+   "w": 39,
+   "wd": 3,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Write the Q3 review",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Connected Enterprise (ERP) quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "erp"
+    ],
+    [
+     "Delivery",
+     "Cyber Resilience quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cyber"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Day 270 stretch checkpoint: monthly billing ₹1.2 Cr or more. If not, focus on margin and cash, not headcount.",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 271,
+   "w": 39,
+   "wd": 4,
+   "q": 3,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Q3 check: run rate ₹68 lakh a month, headcount 41",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Delivery Management quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Finance, HR & Admin quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 272,
+   "w": 39,
+   "wd": 5,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Quarter review offsite; set Q4 priorities",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 273,
+   "w": 39,
+   "wd": 6,
+   "q": 3,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 274,
+   "w": 40,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Schedule a quarterly business review with every client",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 275,
+   "w": 40,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Build the review deck template: results, metrics, next ideas",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Business reviews with every anchor account",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 276,
+   "w": 40,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Prepare reviews for the top 5 clients",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Gulf: decide on a UAE presence — partner address or free-zone company",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 277,
+   "w": 40,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Run reviews with the top 2 clients",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Cash forecast with anchor-account payment terms",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 278,
+   "w": 40,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Log every expansion idea from the reviews in the CRM",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 279,
+   "w": 40,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 9",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 280,
+   "w": 40,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 281,
+   "w": 41,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Run client business reviews",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Compare estimates with actuals; tighten the estimation guide",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 282,
+   "w": 41,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Run client business reviews",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Package AI support as a monthly retainer",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Pay retention bonuses to key acquired staff, if earned",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 283,
+   "w": 41,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Send expansion proposals from the reviews",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Offer cloud migration to clients on ageing infrastructure",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "Asia: join Indian business networks in Singapore",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 284,
+   "w": 41,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Run client business reviews",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Build the business case for a full ERP department",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Sign anchor account 4",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 285,
+   "w": 41,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Follow up on every review proposal",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Review the partner’s revenue share and quality",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 286,
+   "w": 41,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Internal tech talk",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 287,
+   "w": 41,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 288,
+   "w": 42,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Offer the AI Value Sprint to every client not yet using AI services",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 289,
+   "w": 42,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Offer a cloud cost review to every cloud client",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Quality review of all anchor accounts",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 290,
+   "w": 42,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Offer a security assessment through the cyber partner to all clients",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Gulf: outbound push ahead of GITEX — request 40 meetings",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 291,
+   "w": 42,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Prepare demos for cross-sell meetings",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Expand subcontracting only where margins hold",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 292,
+   "w": 42,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Review the cross-sell pipeline",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 293,
+   "w": 42,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Post a client success story on LinkedIn",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 294,
+   "w": 42,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 295,
+   "w": 43,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Interview for the final billable roles of the year",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 296,
+   "w": 43,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Make offers",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Renegotiate the credit line for year 2’s size",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 297,
+   "w": 43,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Onboard new joiners",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Gulf: prepare GITEX materials and demos",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 298,
+   "w": 43,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Check utilisation",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Attrition check across anchor-account teams",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 299,
+   "w": 43,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Review the Q4 forecast deal by deal",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Month 10 check: run rate ₹73 lakh a month, headcount 42, 8 new clients, 16 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 300,
+   "w": 43,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "HR",
+     "Launch the year-end engagement survey",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 301,
+   "w": 43,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 302,
+   "w": 44,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Plan webinar 6",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 303,
+   "w": 44,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Sales",
+     "Convert projects ending this quarter into retainers",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Secure anchor-account renewals for year 2",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 304,
+   "w": 44,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Marketing",
+     "Send webinar 6 invites",
+     "mkt"
+    ],
+    [
+     "Marketing",
+     "Asia: plan the Singapore FinTech Festival (usually November) for year 2",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 305,
+   "w": 44,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Run webinar 6",
+     "mkt"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Earn-out review with the acquired firm’s founders",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 306,
+   "w": 44,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Follow up with every attendee",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 307,
+   "w": 44,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Check retainer share of revenue; target 30%",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 308,
+   "w": 44,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 309,
+   "w": 45,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Finance",
+     "List all invoices overdue by more than 30 days",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Propose year 2 offers based on the year’s most-sold work",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 310,
+   "w": 45,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Chase every overdue invoice",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Review AI rates against the market; raise them for new deals",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Keep blended margin above 15% across stretch work",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 311,
+   "w": 45,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Call clients with invoices overdue by more than 60 days",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Push managed services towards 30% of company revenue",
+     "cloud"
+    ],
+    [
+     "CEO",
+     "US: decide on a part-time US salesperson for year 2",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 312,
+   "w": 45,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Tighten payment terms in new contracts",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Plan year 2 ERP hiring if the case holds",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Build the year 2 anchor-account pipeline",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 313,
+   "w": 45,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Finance",
+     "Update the 12-month cash forecast",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Build the business case for a full cyber department",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 314,
+   "w": 45,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Plan year-end tax and compliance",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 315,
+   "w": 45,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 316,
+   "w": 46,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Set the year 2 revenue target: ₹14–15 Cr",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 317,
+   "w": 46,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Build the year 2 budget",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Decide on a second acquisition for year 2",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 318,
+   "w": 46,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "HR",
+     "Write the year 2 hiring plan by quarter",
+     "fha"
+    ],
+    [
+     "Sales",
+     "All regions: ask every overseas client for a referral",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 319,
+   "w": 46,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Delivery",
+     "Plan the ERP and cyber department build-out",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Include acquired and anchor revenue in the year 2 budget",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 320,
+   "w": 46,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Decide whether to run an acquisition search in year 2",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 321,
+   "w": 46,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Write the year 2 plan draft",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 322,
+   "w": 46,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 323,
+   "w": 47,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "HR",
+     "Start performance reviews",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 324,
+   "w": 47,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "HR",
+     "Benchmark salaries against the market",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Delivery",
+     "Integration complete: acquired team on all standard processes",
+     "dm"
+    ]
+   ]
+  },
+  {
+   "d": 325,
+   "w": 47,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Decide increments and bonuses within budget",
+     "lead"
+    ],
+    [
+     "Marketing",
+     "Gulf: finalise the GITEX meeting list and logistics",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 326,
+   "w": 47,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "HR",
+     "Define career paths for top performers",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Plan anchor-account expansions for year 2’s first quarter",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 327,
+   "w": 47,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "HR",
+     "Share engagement survey results and actions",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Month 11 check: run rate ₹78 lakh a month, headcount 44, 9 new clients, 18 paid assessments",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 328,
+   "w": 47,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Internal tech talk",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 329,
+   "w": 47,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 330,
+   "w": 48,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Finance",
+     "Compare rates actually achieved with the rate card",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 331,
+   "w": 48,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Set the year 2 rate card: a 5–10% increase",
+     "lead"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Client concentration check: no client above 20% of revenue",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 332,
+   "w": 48,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Tell clients about new rates from their next renewal",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Europe: complete the ISO 27001 audit",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 333,
+   "w": 48,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Update package prices",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Write up lessons learnt from the stretch track",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 334,
+   "w": 48,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Review the year’s win and loss reasons",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 335,
+   "w": 48,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Write case study 10",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 336,
+   "w": 48,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 337,
+   "w": 49,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Build the year 2 target account list of 500 companies",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Year-end review: revenue, margin, utilisation and satisfaction against goals",
+     "pe"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 338,
+   "w": 49,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Plan the year 2 marketing calendar and budget",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Year-end review: Sprints sold, conversion and revenue against goals",
+     "ai"
+    ]
+   ],
+   "s": [
+    [
+     "Sales",
+     "Confirm anchor-account renewals",
+     "sales"
+    ]
+   ]
+  },
+  {
+   "d": 339,
+   "w": 49,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Set year 2 targets for each salesperson",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Year-end review: managed revenue share, partner status and margin",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: set the year 2 budget region by region",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 340,
+   "w": 49,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Review pipeline for the first quarter of year 2",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Year-end review: ERP revenue, deals and partner performance",
+     "erp"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Forecast year 2 including stretch revenue",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 341,
+   "w": 49,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Confirm renewals due in the first quarter of year 2",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Year-end review: cyber revenue, retainers and partner performance",
+     "cyber"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 342,
+   "w": 49,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "Marketing",
+     "Publish a year-in-review post",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 343,
+   "w": 49,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 344,
+   "w": 50,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Document lessons learnt from the year’s projects",
+     "dm"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 345,
+   "w": 50,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Update standard templates and playbooks",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Thank the acquired team and anchor clients",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 346,
+   "w": 50,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Update the sales playbook",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Gulf: this week, attend GITEX Global in Dubai and run booked meetings (adjust to actual dates)",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 347,
+   "w": 50,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Close the books for the plan year",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "HR",
+     "Year 2 hiring plan for anchor accounts",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 348,
+   "w": 50,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "HR",
+     "Finalise the year 2 org chart",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 349,
+   "w": 50,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Send thank-you notes to top clients",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 350,
+   "w": 50,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 351,
+   "w": 51,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Present the year 2 plan to department heads",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 352,
+   "w": 51,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Delivery",
+     "Department heads write their year 2 plans",
+     "dm"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Present stretch results as part of the year 2 plan",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 353,
+   "w": 51,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Present the year 2 plan to the whole company",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Gulf: follow up every GITEX contact within 48 hours",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 354,
+   "w": 51,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "Finance",
+     "Lock the year 2 budget",
+     "fha"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Lock year 2 credit and funding",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 355,
+   "w": 51,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Lock year 2 sales targets",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 356,
+   "w": 51,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "Delivery",
+     "Half day: team learning session or knowledge sharing",
+     "dm"
+    ],
+    [
+     "CEO",
+     "Team celebration",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 357,
+   "w": 51,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 358,
+   "w": 52,
+   "wd": 0,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Clean the CRM",
+     "sales"
+    ],
+    [
+     "CEO",
+     "Leadership quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Sales quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "sales"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 359,
+   "w": 52,
+   "wd": 1,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Delivery",
+     "Delivery health check: every project marked green, amber or red, risks escalated",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Calculate the year’s revenue, margin, utilisation and retainer share",
+     "fha"
+    ],
+    [
+     "Marketing",
+     "Marketing quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "mkt"
+    ],
+    [
+     "Delivery",
+     "Product Engineering quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "pe"
+    ]
+   ],
+   "s": [
+    [
+     "Finance",
+     "Final stretch numbers: acquired, anchor and subcontracting revenue",
+     "fha"
+    ]
+   ]
+  },
+  {
+   "d": 360,
+   "w": 52,
+   "wd": 2,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Sales",
+     "Proposal day: every proposal requested last week goes out today",
+     "sales"
+    ],
+    [
+     "Sales",
+     "Check pipeline coverage for year 2’s first quarter",
+     "sales"
+    ],
+    [
+     "Delivery",
+     "Applied AI quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "ai"
+    ],
+    [
+     "Delivery",
+     "Cloud & Platform Excellence quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cloud"
+    ],
+    [
+     "Marketing",
+     "All regions: year-end review — clients, pipeline and cost per meeting by region",
+     "mkt"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 361,
+   "w": 52,
+   "wd": 3,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "CEO",
+     "Client day: one conversation with an existing client about what’s next",
+     "lead"
+    ],
+    [
+     "HR",
+     "Hiring: move every open role forward one step",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Write the annual review",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Connected Enterprise (ERP) quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "erp"
+    ],
+    [
+     "Delivery",
+     "Cyber Resilience quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "cyber"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Stretch check: is monthly billing at ₹1.67 Cr, which is ₹20 Cr a year?",
+     "lead"
+    ]
+   ]
+  },
+  {
+   "d": 362,
+   "w": 52,
+   "wd": 4,
+   "q": 4,
+   "min": true,
+   "t": [
+    [
+     "Finance",
+     "Money day: raise invoices, chase collections, update utilisation",
+     "fha"
+    ],
+    [
+     "CEO",
+     "Publish the weekly scorecard to all leads",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Year 1 check: run rate ₹83 lakh a month (₹10 Cr a year), headcount 45",
+     "lead"
+    ],
+    [
+     "Delivery",
+     "Delivery Management quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "dm"
+    ],
+    [
+     "Finance",
+     "Finance, HR & Admin quarter review: score this quarter’s goals and set next quarter’s top 3",
+     "fha"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 363,
+   "w": 52,
+   "wd": 5,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Annual review offsite with all leads",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 364,
+   "w": 52,
+   "wd": 6,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Rest. Spend 20 minutes on the scorecard and write next week’s top 3",
+     "lead"
+    ]
+   ],
+   "s": []
+  },
+  {
+   "d": 365,
+   "w": 53,
+   "wd": 0,
+   "q": 4,
+   "min": false,
+   "t": [
+    [
+     "CEO",
+     "Day 365: compare final numbers with the Day 5 baseline and kick off year 2",
+     "lead"
+    ],
+    [
+     "CEO",
+     "Weekly kickoff with all leads: last week’s scorecard, this week’s top 3 targets",
+     "lead"
+    ],
+    [
+     "Sales",
+     "Pipeline review: every open deal has a next step and a date",
+     "sales"
+    ]
+   ],
+   "s": [
+    [
+     "CEO",
+     "Day 365 stretch result: compare monthly billing with the ₹1.67 Cr target and record what worked",
+     "lead"
+    ]
+   ]
+  }
+ ],
+ "deps": [
+  {
+   "id": "lead",
+   "name": "Leadership",
+   "what": "Runs the 365-day plan and the weekly scorecard, and owns the ₹20 Cr stretch track.",
+   "team": "2: CEO, Head of Delivery",
+   "rev": "Company ₹10 Cr run rate, stretch ₹20 Cr",
+   "goals": [
+    "Reach a ₹10 Cr run rate by Day 365",
+    "Keep year 1 profit at 10–12%",
+    "Publish the weekly scorecard every Friday",
+    "Take each stretch checkpoint decision on time"
+   ],
+   "def": {
+    "summary": "Sets the company’s direction and owns the 365-day plan, the company targets and the ₹20 Cr stretch track.",
+    "does": [
+     "Runs the weekly scorecard and the quarterly reviews",
+     "Sets targets, the rate card floor and approves deals below it",
+     "Leads key client and partner relationships",
+     "Owns the stretch track: acquisition search and anchor accounts",
+     "Hires and coaches the department heads"
+    ],
+    "people": "CEO and Head of Delivery",
+    "with": "Every department",
+    "kpis": [
+     [
+      "Monthly billing (run rate)",
+      "₹83 lakh a month by Day 365, following the monthly path in the plan",
+      "Monthly"
+     ],
+     [
+      "Operating profit margin",
+      "10–12% in year 1",
+      "Monthly"
+     ],
+     [
+      "Headcount against plan",
+      "45 by year end, never ahead of signed work",
+      "Monthly"
+     ],
+     [
+      "Plan tasks completed on time",
+      "90% or more",
+      "Weekly",
+      "plan"
+     ],
+     [
+      "Weekly scorecard published",
+      "Every Friday, 52 of 52",
+      "Weekly"
+     ],
+     [
+      "Stretch checkpoint decisions",
+      "Made on Day 90, 180 and 270",
+      "Quarterly"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "sales",
+   "name": "Sales",
+   "what": "Turns leads into signed clients and grows existing accounts.",
+   "team": "3: Head of Sales, 2 business developers",
+   "rev": "10 new clients, ₹5 Cr new annual revenue",
+   "goals": [
+    "Open pipeline of ₹10 Cr by Day 90",
+    "Win at least 25% of proposals",
+    "Send proposals within 3 working days",
+    "Sign 20 paid assessments over the year"
+   ],
+   "def": {
+    "summary": "Turns qualified interest into signed revenue, and grows revenue from existing clients.",
+    "does": [
+     "Qualifies leads and runs discovery meetings",
+     "Sends proposals within 3 working days, scoped with the department leads",
+     "Negotiates and closes deals",
+     "Sells paid assessments as the first step with new clients",
+     "Runs account plans, renewals and cross-selling",
+     "Keeps the pipeline in the toolkit accurate every day"
+    ],
+    "people": "Head of Sales and 2 business developers, with presales help from the department leads",
+    "with": "Marketing for leads, delivery departments for scoping, Finance for pricing",
+    "kpis": [
+     [
+      "Open pipeline",
+      "₹10 Cr by Day 90, then 3 times the revenue still needed",
+      "Weekly",
+      "pipeline"
+     ],
+     [
+      "Proposal win rate",
+      "25% or higher",
+      "Monthly",
+      "win"
+     ],
+     [
+      "Proposal turnaround",
+      "3 working days or less, with at least 90% on time",
+      "Weekly",
+      "tat"
+     ],
+     [
+      "New clients",
+      "10 in the year, about 1 a month",
+      "Monthly"
+     ],
+     [
+      "Paid assessments signed",
+      "20 in the year, with at least half becoming projects",
+      "Monthly",
+      "assess"
+     ],
+     [
+      "Growth from existing clients",
+      "₹1.5 Cr of new annual revenue",
+      "Quarterly"
+     ],
+     [
+      "Open deals with a dated next step",
+      "100%",
+      "Weekly",
+      "nextstep"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "mkt",
+   "name": "Marketing",
+   "what": "Creates demand in India, the Gulf, the US, Europe and Asia: regional websites, case studies, webinars, events and partner listings. Regions launch in order: Gulf and US in Q1, Europe in Q3, Asia in Q4.",
+   "team": "2, plus regional appointment setters paid per meeting",
+   "rev": "About 220 leads; 7 new overseas clients",
+   "goals": [
+    "Gulf: 3 new clients, led by LEAP and GITEX",
+    "US: 2 new clients, led by outbound and Clutch reviews",
+    "Europe: 1 new client, led by consultancy partners and ISO 27001",
+    "Asia: 1 new client, through cloud partner teams",
+    "Publish 10 case studies, at least 2 per active region",
+    "Run 6 webinars in two time slots",
+    "Track meetings, cost per meeting, pipeline and win rate for each region"
+   ],
+   "def": {
+    "summary": "Creates demand: makes the right companies in India, the Gulf, the US, Europe and Asia aware of MindSuite, and turns that into leads.",
+    "does": [
+     "Sets the message for each region and keeps the website and package pages current",
+     "Publishes case studies and the CEO’s LinkedIn content",
+     "Runs webinars and the event programme: LEAP, London Tech Week, GITEX",
+     "Manages partner listings (AWS, Azure) and Clutch reviews",
+     "Manages appointment setters and the marketing budget by region",
+     "Reports leads, meetings and cost per meeting for each region"
+    ],
+    "people": "Marketing manager, content specialist and regional appointment setters",
+    "with": "Sales for lead hand-off, Leadership for budget and events",
+    "kpis": [
+     [
+      "Leads",
+      "About 220 in the year: 2–3 a week in Q1, rising to 6–7 in Q4",
+      "Weekly",
+      "leads"
+     ],
+     [
+      "Leads that qualify",
+      "30% or more",
+      "Monthly",
+      "qualrate"
+     ],
+     [
+      "Qualified meetings",
+      "About 65 in the year",
+      "Monthly",
+      "meetings"
+     ],
+     [
+      "Cost per qualified meeting",
+      "Falling every quarter from the Q1 baseline, tracked by region",
+      "Quarterly"
+     ],
+     [
+      "New overseas clients",
+      "7: Gulf 3, US 2, Europe 1, Asia 1",
+      "Quarterly"
+     ],
+     [
+      "Case studies, webinars and reviews",
+      "10 case studies, 6 webinars and 10 Clutch reviews",
+      "Quarterly"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "pe",
+   "name": "Product Engineering",
+   "what": "Builds and modernises software: MVPs, apps, APIs and integrations.",
+   "team": "13 billable",
+   "rev": "₹3.5 Cr run rate",
+   "goals": [
+    "80% utilisation",
+    "At least 25% project margin",
+    "Client satisfaction of 8 out of 10 or higher",
+    "Offer a follow-on to every finished project"
+   ],
+   "def": {
+    "summary": "Designs, builds and modernises software for clients: products, integrations, identity systems and the quality work around them.",
+    "does": [
+     "Builds MVPs, web and mobile apps and SaaS platforms",
+     "Modernises legacy applications and databases",
+     "Designs APIs and connects business systems",
+     "Sets up identity, single sign-on and access controls",
+     "Runs software health checks, architecture reviews and due diligence"
+    ],
+    "people": "Department head, tech leads, developers, QA engineers, a UX designer and a business analyst",
+    "with": "Applied AI on AI features, Cloud & Platform on releases and hosting, Cyber Resilience on secure development",
+    "services": [
+     [
+      "Starting packages",
+      [
+       "MVP Launch Package",
+       "Modernization Discovery & Pilot",
+       "Business Integration Launch Package",
+       "Identity Platform Starter Package",
+       "Release Readiness Accelerator"
+      ]
+     ],
+     [
+      "Digital product development",
+      [
+       "Product Discovery & Validation",
+       "UX Design & Prototyping",
+       "MVP Development",
+       "Web & Mobile App Development",
+       "SaaS Platform Development",
+       "Product Enhancement & Evolution"
+      ]
+     ],
+     [
+      "Application modernisation",
+      [
+       "Technical Debt Assessment & Action Plan",
+       "Legacy Application Review & Roadmap",
+       "Framework & Runtime Upgrades",
+       "Application Architecture Renewal",
+       "Database Modernization",
+       "Phased Application Re-engineering"
+      ]
+     ],
+     [
+      "APIs and business integration",
+      [
+       "API Design & Development",
+       "API Gateway Setup & Configuration",
+       "Business System Integration",
+       "Event-driven Workflow Development",
+       "Partner & Third-party Integration",
+       "Integration Diagnostics & Repair"
+      ]
+     ],
+     [
+      "Identity and access",
+      [
+       "Identity Platform Advisory & Selection",
+       "Identity Platform Setup & Configuration",
+       "Single Sign-on & Identity Federation",
+       "Roles, Permissions & Access Controls",
+       "Identity Platform Migration",
+       "User Provisioning & Access Lifecycle"
+      ]
+     ],
+     [
+      "Software quality",
+      [
+       "Quality Assessment & Test Strategy",
+       "Automated Testing"
+      ]
+     ],
+     [
+      "Assessments and architecture",
+      [
+       "Software Health Check",
+       "Software Risk & Health Assessment",
+       "Technology Due Diligence",
+       "Architecture Strategy & Roadmap",
+       "Architecture Review",
+       "Engineering & Delivery Maturity Review"
+      ]
+     ]
+    ],
+    "kpis": [
+     [
+      "Revenue run rate",
+      "₹3.5 Cr by year end",
+      "Monthly"
+     ],
+     [
+      "Utilisation",
+      "80% or higher",
+      "Weekly"
+     ],
+     [
+      "Project margin",
+      "25% or higher",
+      "Monthly"
+     ],
+     [
+      "Milestones delivered on time",
+      "90% or more",
+      "Monthly"
+     ],
+     [
+      "Client satisfaction",
+      "8 out of 10 or higher",
+      "Quarterly"
+     ],
+     [
+      "Estimates against actual effort",
+      "Within 15%",
+      "Monthly"
+     ],
+     [
+      "Finished projects offered a follow-on",
+      "100%",
+      "Monthly"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Applied AI",
+   "what": "AI assistants, document automation, AI features and AI-assisted engineering.",
+   "team": "10 billable",
+   "rev": "₹3.0 Cr run rate",
+   "goals": [
+    "Sell at least 12 AI Value Sprints (of the company’s 20 paid assessments)",
+    "Turn half of them into projects",
+    "Hold the highest rates in the company",
+    "Publish 5 AI case studies"
+   ],
+   "def": {
+    "summary": "Puts AI to work inside clients’ businesses and products, with approval controls, evaluation and cost limits built in.",
+    "does": [
+     "Runs AI Value Sprints to find and size AI opportunities",
+     "Builds knowledge assistants, document automation and request handling",
+     "Adds AI features to client products",
+     "Brings AI into software engineering and IT operations",
+     "Tests, monitors and maintains AI systems once they’re live"
+    ],
+    "people": "Department head, AI leads, AI/ML engineers, integration developers, data engineers and evaluation engineers",
+    "with": "Product Engineering on product features, Cloud & Platform on hosting and operations, Cyber Resilience on AI security",
+    "services": [
+     [
+      "Starting points",
+      [
+       "AI Value Sprint",
+       "AI-assisted Development Pilot"
+      ]
+     ],
+     [
+      "Packaged AI offers",
+      [
+       "Support Knowledge Assistant",
+       "Document Workflow Automation",
+       "Service Request Automation",
+       "AI Feature Launch Package",
+       "Engineering AI Starter Package",
+       "AI Reliability & Operations"
+      ]
+     ],
+     [
+      "Enterprise search and knowledge",
+      [
+       "Knowledge Source Integration & Refresh",
+       "Intelligent Enterprise Search",
+       "Knowledge Assistants with Source References",
+       "Permission-based Knowledge Access"
+      ]
+     ],
+     [
+      "Intelligent document processing",
+      [
+       "Document Classification & Routing",
+       "Document Data Extraction",
+       "Document Validation & Cross-checks",
+       "Document Review & System Integration"
+      ]
+     ],
+     [
+      "AI in products",
+      [
+       "In-app AI Assistants",
+       "AI Summaries & Draft Generation",
+       "Conversational Access to Product Data & Actions",
+       "Multi-tenant AI APIs"
+      ]
+     ],
+     [
+      "AI in business workflows",
+      [
+       "Request Understanding & Routing",
+       "AI-assisted Responses & Next Steps",
+       "CRM, ERP & Helpdesk Integration",
+       "Task Agents with Approval Controls"
+      ]
+     ],
+     [
+      "AI-assisted software engineering",
+      [
+       "AI-assisted Software Development",
+       "AI-assisted DevOps Enablement",
+       "AI Coding Tools & Team Onboarding",
+       "Codebase Navigation & Understanding",
+       "AI-assisted Code Review & Testing",
+       "AI-assisted Pipeline Troubleshooting"
+      ]
+     ],
+     [
+      "AI-assisted IT operations",
+      [
+       "Intelligent Alert Triage",
+       "AI-assisted Incident Investigation",
+       "Guided Recovery with Approval Controls",
+       "Incident Summaries & Follow-up Actions"
+      ]
+     ],
+     [
+      "AI strategy and readiness",
+      [
+       "AI Opportunity Assessment",
+       "Data & Access Readiness Review",
+       "AI Application Health Check",
+       "AI Platform Selection & Team Enablement"
+      ]
+     ],
+     [
+      "AI quality and operations",
+      [
+       "AI Quality Evaluation & Regression Testing",
+       "AI Permissions, Approvals & Audit Controls",
+       "AI Deployment & Cost Controls",
+       "Continuous AI Improvement & Maintenance"
+      ]
+     ]
+    ],
+    "kpis": [
+     [
+      "Revenue run rate",
+      "₹3.0 Cr by year end",
+      "Monthly"
+     ],
+     [
+      "AI Value Sprints sold",
+      "At least 12 of the company’s 20 paid assessments",
+      "Monthly",
+      "sprints"
+     ],
+     [
+      "Sprints that become projects",
+      "50% or more",
+      "Quarterly"
+     ],
+     [
+      "Average billing rate",
+      "Highest in the company, at least ₹2,400 an hour",
+      "Monthly"
+     ],
+     [
+      "Project margin",
+      "30% or higher",
+      "Monthly"
+     ],
+     [
+      "Live AI systems with evaluation and cost monitoring",
+      "100%",
+      "Monthly"
+     ],
+     [
+      "AI case studies published",
+      "5",
+      "Quarterly"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "cloud",
+   "name": "Cloud & Platform Excellence",
+   "what": "DevOps, cloud setup and migration, reliability and managed services.",
+   "team": "9 billable",
+   "rev": "₹2.5 Cr run rate",
+   "goals": [
+    "Managed services at 30% of company revenue",
+    "Offer support to every Product Engineering client",
+    "Achieve cloud partner status",
+    "At least 25% margin on managed services"
+   ],
+   "def": {
+    "summary": "Builds and runs the platforms clients’ software lives on: cloud, release pipelines, reliability, cost control and managed support.",
+    "does": [
+     "Sets up cloud foundations and migrates workloads",
+     "Automates builds, releases and infrastructure",
+     "Builds developer platforms and container setups",
+     "Keeps services reliable with monitoring, alerting and recovery testing",
+     "Cuts cloud costs",
+     "Provides ongoing managed support, the company’s main recurring revenue"
+    ],
+    "people": "Department head, leads, DevOps/SRE engineers, cloud engineers and managed-support engineers",
+    "with": "Product Engineering on releases, Cyber Resilience on delivery security, Applied AI on AI operations",
+    "services": [
+     [
+      "Starting packages and health checks",
+      [
+       "DevOps Health Check",
+       "Release Pipeline Starter Package",
+       "Infrastructure Automation Pilot",
+       "Developer Platform Starter Package",
+       "Secure Delivery Starter Package",
+       "Service Reliability Starter Package",
+       "Cloud Cost & Operations Health Check"
+      ]
+     ],
+     [
+      "DevOps strategy and advisory",
+      [
+       "Delivery Bottleneck Review",
+       "DevOps Toolchain Strategy & Roadmap",
+       "DevOps Operating Model Design"
+      ]
+     ],
+     [
+      "Build and release automation",
+      [
+       "Pipeline Diagnostics & Repair",
+       "Automated Builds & Continuous Integration",
+       "Deployment Automation & Continuous Delivery",
+       "Release & Branching Strategy",
+       "Artifact & Dependency Management",
+       "Progressive Rollouts & Rollback"
+      ]
+     ],
+     [
+      "Cloud foundations and migration",
+      [
+       "Cloud Foundation Setup",
+       "Infrastructure as Code",
+       "Automated Environment Provisioning",
+       "Configuration & Drift Control",
+       "Backup & Recovery Implementation",
+       "Application & Workload Cloud Migration"
+      ]
+     ],
+     [
+      "Developer platforms",
+      [
+       "Application Containerization",
+       "Container Platform Setup",
+       "Platform Upgrades & Lifecycle Management",
+       "GitOps Deployment Automation",
+       "Developer Self-service Workflows"
+      ]
+     ],
+     [
+      "Delivery security, with Cyber Resilience",
+      [
+       "Delivery Security Assessment",
+       "Pipeline Security & Automated Checks",
+       "Secrets & Service Identity Management",
+       "Software Supply Chain Security Controls",
+       "Policy as Code & Automated Guardrails",
+       "Control Evidence & Reporting Automation"
+      ]
+     ],
+     [
+      "Cloud cost and operations",
+      [
+       "Cloud Cost Review & Savings Roadmap",
+       "Resource Rightsizing & Capacity Optimization",
+       "Cloud Cost Visibility & Budget Controls",
+       "Routine Operations Automation"
+      ]
+     ],
+     [
+      "Reliability and observability",
+      [
+       "Observability Health Check",
+       "Operational Readiness Assessment",
+       "Service Reliability Targets & Alerting",
+       "Monitoring & Observability",
+       "Incident Investigation & Root Cause Analysis",
+       "Performance & Resilience Testing",
+       "Recovery Planning & Disaster Recovery Testing"
+      ]
+     ],
+     [
+      "Managed support",
+      [
+       "Managed Application & Platform Support",
+       "Platform Patching & Maintenance",
+       "Continuous Reliability Improvement"
+      ]
+     ]
+    ],
+    "kpis": [
+     [
+      "Revenue run rate",
+      "₹2.5 Cr by year end",
+      "Monthly"
+     ],
+     [
+      "Recurring revenue share",
+      "Managed services and retainers at 30% of company revenue",
+      "Monthly"
+     ],
+     [
+      "Utilisation",
+      "80% or higher",
+      "Weekly"
+     ],
+     [
+      "Managed-services margin",
+      "25% or higher",
+      "Monthly"
+     ],
+     [
+      "Support response times met",
+      "95% or more",
+      "Monthly"
+     ],
+     [
+      "Cloud partner status",
+      "Achieved by the end of Q3, with 8 engineers certified",
+      "Quarterly"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "erp",
+   "name": "Connected Enterprise (ERP)",
+   "what": "ERP setup, migration and integration, mainly Odoo and NetSuite, with a partner firm.",
+   "team": "2 billable plus partner",
+   "rev": "₹0.6 Cr run rate",
+   "goals": [
+    "Win ERP work through the partner firm",
+    "Deliver the first ERP integration in-house",
+    "Build the case for a full department in year 2"
+   ],
+   "def": {
+    "summary": "Plans, implements and connects the business systems clients run on: orders, purchasing, stock, manufacturing and finance.",
+    "does": [
+     "Maps how the client’s business works today and agrees the future workflow",
+     "Helps choose the right ERP and designs the solution",
+     "Configures and extends ERP platforms",
+     "Migrates data and connects ERP to CRM, e-commerce and other systems",
+     "Trains users, supports go-live and keeps the system improving"
+    ],
+    "people": "Solution architect and ERP developers, working with a partner firm in year 1",
+    "with": "Product Engineering on integrations, Applied AI on document automation, Finance on client billing",
+    "note": "In year 1, most ERP delivery runs with the partner firm while MindSuite builds its own team.",
+    "services": [
+     [
+      "Starting packages",
+      [
+       "ERP Discovery & Blueprint",
+       "ERP Data Migration & Cutover",
+       "ERP Health Check & Improvement"
+      ]
+     ],
+     [
+      "Discovery, selection and design",
+      [
+       "Business Process Discovery & Blueprint",
+       "ERP Platform Selection & Solution Design"
+      ]
+     ],
+     [
+      "Implementation and configuration",
+      [
+       "ERP Configuration & Implementation",
+       "ERP Customization & Extensions",
+       "Workflow Testing & User Acceptance"
+      ]
+     ],
+     [
+      "Platform solutions",
+      [
+       "NetSuite Order-to-Cash",
+       "Odoo Sales, Inventory & Purchasing",
+       "ERPNext Manufacturing Flow",
+       "SAP Procurement-to-Finance",
+       "Microsoft Dynamics 365 Finance & Customer Workflows"
+      ]
+     ],
+     [
+      "Data migration and integration",
+      [
+       "ERP Data Migration & Reconciliation",
+       "ERP Integration with CRM, Commerce, POS & Legacy Apps",
+       "Salesforce CRM & CRM-to-ERP Handoff",
+       "Shopify & Commerce-to-ERP Integration"
+      ]
+     ],
+     [
+      "Go-live, support and improvement",
+      [
+       "Training, Handover & Go-live Readiness",
+       "ERP Support & Maintenance",
+       "ERP Review & Targeted Improvement",
+       "ERP Reporting & Operational Dashboards"
+      ]
+     ]
+    ],
+    "kpis": [
+     [
+      "Revenue run rate",
+      "₹0.6 Cr by year end",
+      "Monthly"
+     ],
+     [
+      "ERP projects won through the partner",
+      "4",
+      "Quarterly"
+     ],
+     [
+      "ERP health checks sold",
+      "3",
+      "Quarterly"
+     ],
+     [
+      "First integration delivered by our own team",
+      "By the end of Q3",
+      "Quarterly"
+     ],
+     [
+      "Client satisfaction with partner-delivered work",
+      "8 out of 10 or higher",
+      "Quarterly"
+     ],
+     [
+      "Year 2 business case",
+      "Ready by Day 330",
+      "Once"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "cyber",
+   "name": "Cyber Resilience",
+   "what": "Security testing, compliance and vCISO advice, with a partner firm.",
+   "team": "1 billable plus partner",
+   "rev": "₹0.4 Cr run rate",
+   "goals": [
+    "Sell security assessments to existing clients",
+    "Sign the first vCISO retainers",
+    "Build the case for a full department in year 2"
+   ],
+   "def": {
+    "summary": "Protects clients from cyber threats and proves it to their auditors and boards: security leadership, testing, protection and response.",
+    "does": [
+     "Provides fractional security leadership (vCISO) and board reporting",
+     "Gets clients ready for audits and compliance frameworks",
+     "Tests defences with penetration testing and red teaming",
+     "Protects identities, networks, cloud, data and AI systems",
+     "Prepares for and responds to incidents and ransomware"
+    ],
+    "people": "Security lead (vCISO), penetration testers and a compliance analyst, working with a partner firm in year 1",
+    "with": "Cloud & Platform on delivery security, Applied AI on AI security, Product Engineering on secure development",
+    "note": "In year 1, most cyber delivery runs with the partner firm while MindSuite builds its own team.",
+    "services": [
+     [
+      "Packaged offers",
+      [
+       "vCISO & Board Advisory",
+       "Compliance & Audit Readiness",
+       "AI & Generative AI Security",
+       "Incident & Ransomware Readiness"
+      ]
+     ],
+     [
+      "Security leadership and risk",
+      [
+       "vCISO Services",
+       "Security Governance",
+       "Cyber Risk Management"
+      ]
+     ],
+     [
+      "Compliance and audit",
+      [
+       "Compliance Programs",
+       "Audit Readiness & Assurance"
+      ]
+     ],
+     [
+      "Threat assessment and testing",
+      [
+       "Threat Modeling & Attack Path Review",
+       "Threat Intelligence",
+       "Red & Purple Team Simulation",
+       "Penetration Testing"
+      ]
+     ],
+     [
+      "Identity and zero trust",
+      [
+       "Identity & Privileged Access Management",
+       "Zero Trust Architecture"
+      ]
+     ],
+     [
+      "Estate and data protection",
+      [
+       "Network & Endpoint Security",
+       "Cloud-native Security",
+       "Data Protection",
+       "AI Security",
+       "OT / ICS Security"
+      ]
+     ],
+     [
+      "Vulnerability and exposure management",
+      [
+       "Vulnerability Management",
+       "Application Security & Secure Development",
+       "Attack Surface & Exposure Management",
+       "Remediation Management"
+      ]
+     ],
+     [
+      "Monitoring and incident response",
+      [
+       "SOC & Security Monitoring",
+       "Security Incident Response",
+       "Digital Forensics"
+      ]
+     ],
+     [
+      "Resilience and continuity",
+      [
+       "Ransomware Readiness",
+       "Business Continuity"
+      ]
+     ]
+    ],
+    "kpis": [
+     [
+      "Revenue run rate",
+      "₹0.4 Cr by year end",
+      "Monthly"
+     ],
+     [
+      "Security assessments sold to existing clients",
+      "5",
+      "Quarterly"
+     ],
+     [
+      "vCISO retainers signed",
+      "2",
+      "Quarterly"
+     ],
+     [
+      "Penetration-test findings fixed and retested",
+      "90% within the agreed time",
+      "Monthly"
+     ],
+     [
+      "Client satisfaction with partner-delivered work",
+      "8 out of 10 or higher",
+      "Quarterly"
+     ],
+     [
+      "Year 2 business case",
+      "Ready by Day 330",
+      "Once"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "dm",
+   "name": "Delivery Management",
+   "what": "Keeps projects on track, people busy on billable work and risks visible.",
+   "team": "1–2 delivery managers",
+   "rev": "Company utilisation 80%",
+   "goals": [
+    "Company utilisation at 80%",
+    "Bench under 10%",
+    "Every project risk flagged the same day",
+    "Standard templates used on every project"
+   ],
+   "def": {
+    "summary": "Makes sure every client project is staffed, on track and profitable, and that people spend their time on billable work.",
+    "does": [
+     "Plans who works on what and keeps utilisation at 80%",
+     "Runs project kickoffs, status reports and red, amber or green health checks",
+     "Flags project risks the same day they appear",
+     "Owns the standard templates, estimates and quality standards",
+     "Onboards new joiners and keeps the bench under 10%"
+    ],
+    "people": "Delivery managers and a resource manager",
+    "with": "All five delivery departments, Sales on start dates, Finance on margins",
+    "kpis": [
+     [
+      "Company utilisation",
+      "80% or higher",
+      "Weekly"
+     ],
+     [
+      "Bench (people not on billable work)",
+      "10% or less",
+      "Weekly"
+     ],
+     [
+      "Projects rated green",
+      "80% or more each week",
+      "Weekly"
+     ],
+     [
+      "Average project margin",
+      "25% or higher",
+      "Monthly"
+     ],
+     [
+      "New joiners on billable work",
+      "Within 2 weeks of starting",
+      "Monthly"
+     ],
+     [
+      "Risks escalated late",
+      "None: every risk flagged the day it appears",
+      "Weekly"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "fha",
+   "name": "Finance, HR & Admin",
+   "what": "Pricing, cash, invoicing, hiring and people.",
+   "team": "2–3",
+   "rev": "Cash and people",
+   "goals": [
+    "New rate card applied to every new deal",
+    "Invoices collected within 60 days",
+    "Cash always covers 2 months of salaries",
+    "Fill each role within 30 days of a signed deal",
+    "Attrition under 15%"
+   ],
+   "def": {
+    "summary": "Keeps the company paid, staffed and running: pricing, cash, contracts, hiring and people.",
+    "does": [
+     "Maintains the rate card and floor rate",
+     "Invoices clients and collects payment within 60 days",
+     "Forecasts cash and manages the credit line",
+     "Handles contracts, GST and export invoicing",
+     "Hires against signed deals and onboards new people",
+     "Runs performance reviews, retention and the office, IT and tools"
+    ],
+    "people": "Accounts, a recruiter, an HR business partner and admin/IT, with a CA firm for payroll and tax",
+    "with": "Leadership on budgets, Sales on pricing, Delivery Management on hiring",
+    "kpis": [
+     [
+      "Days to collect payment",
+      "60 days or less",
+      "Monthly"
+     ],
+     [
+      "Cash reserve",
+      "Always at least 2 months of salaries",
+      "Weekly"
+     ],
+     [
+      "Deals at or above the floor rate",
+      "100%, or CEO-approved exceptions",
+      "Monthly"
+     ],
+     [
+      "Invoices raised after each milestone",
+      "Within 3 working days",
+      "Monthly"
+     ],
+     [
+      "Time to fill a role after a deal is signed",
+      "30 days or less",
+      "Monthly"
+     ],
+     [
+      "Annual staff turnover",
+      "15% or less",
+      "Quarterly"
+     ],
+     [
+      "Payroll and tax filings on time",
+      "100%",
+      "Monthly"
+     ]
+    ]
+   }
+  }
+ ]
+}

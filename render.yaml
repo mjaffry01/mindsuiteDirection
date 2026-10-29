@@ -1,0 +1,41 @@
+# One-click hosting on Render (render.com) straight from this GitHub repository.
+# In Render: New > Blueprint > pick this repo. Render reads this file, creates
+# the web service and a disk for your data, and asks you for the secret values.
+services:
+  - type: web
+    name: mindsuite-direction
+    runtime: node
+    plan: starter            # a paid plan is needed for the persistent disk below
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /healthz
+    autoDeploy: true         # redeploys whenever you push to the main branch
+    disk:
+      name: mindsuite-direction-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: DATA_DIR
+        value: /var/data
+      - key: TRUST_PROXY
+        value: "1"
+      - key: SECRET_KEY
+        generateValue: true  # encrypts reps' saved OpenRouter keys
+      - key: APP_USERS       # e.g. Ravi:LongPassword1,Sara:LongPassword2
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_MODEL
+        value: openrouter/auto
+      - key: APP_URL
+        sync: false
+      - key: LEAD_FORM_ORIGINS
+        sync: false
+      - key: LEAD_API_KEYS
+        sync: false
+      - key: LEAD_NOTIFY_WEBHOOK
+        sync: false
+      - key: BRAVE_SEARCH_API_KEY
+        sync: false

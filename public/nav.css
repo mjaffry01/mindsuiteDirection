@@ -1,0 +1,6 @@
+.appnav{display:flex;align-items:center;gap:4px;flex-wrap:wrap;max-width:1180px;margin:0 auto;padding:14px 20px 0;font-family:Manrope,"Segoe UI",system-ui,sans-serif}
+.appnav .brand{font-family:"Bricolage Grotesque",Manrope,sans-serif;font-weight:700;font-size:17px;margin-right:14px;color:var(--ink)}
+.appnav a{font-size:14px;font-weight:600;color:var(--muted);text-decoration:none;padding:6px 12px;border-radius:999px;border:1px solid transparent}
+.appnav a:hover{color:var(--ink);border-color:var(--line)}
+.appnav a[aria-current=page]{color:var(--bg);background:var(--ink)}
+.appnav a:focus-visible{outline:2px solid var(--focus);outline-offset:2px}

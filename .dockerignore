@@ -1,0 +1,7 @@
+node_modules
+.env
+data/state.json
+data/toolkit.json
+data/ai-settings.json
+data/.secret-key
+.git
