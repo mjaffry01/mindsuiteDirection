@@ -1,5 +1,7 @@
 # MindSuite Direction
 
+**Website version:** https://mjaffry01.github.io/mindsuiteDirection/ runs the plan and toolkit in the browser (data saved per browser, AI off). The full app below adds sign-in, shared data and AI.
+
 One application with two parts, sharing one server, one login and live updates:
 
 - **365-day plan** (`/`): the director view of the whole company and a calendar
